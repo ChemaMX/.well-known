@@ -5,7 +5,7 @@
             {
                 "appID": "UBF8T346G9.com.microsoft.smartglass",
                 "paths": ["*"]
-            }
+            },
             {
                 "appID": "UBF8T346G9.com.microsoft.smartglass.beta",
                 "paths": ["*"]
