@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "UBF8T346G9.com.microsoft.smartglass",
+                "appID": "UBF8T346G9.com.microsoft.smartglass.beta",
                 "paths": ["/*"]
             }
         ]
