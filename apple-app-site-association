@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "UBF8T346G9.com.microsoft.smartglass",
-                "paths": ["*"]
+                "paths": ["/xboxstart"]
             },
             {
                 "appID": "UBF8T346G9.com.microsoft.smartglass.beta",
-                "paths": ["*"]
+                "paths": ["/xboxstart"]
             }
         ]
     }
