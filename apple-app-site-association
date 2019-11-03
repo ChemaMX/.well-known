@@ -4,11 +4,15 @@
         "details": [
             {
                 "appID": "XW36E75X72.com.microsoft.smartglass",
-                "paths": ["*"]
+                "paths": ["/xboxstart"]
             },
             {
-                "appID": "XW36E75X72.com.microsoft.smartglass.beta",
-                "paths": ["*"]
+                "appID": "9KBH5RKYEW.com.microsoft.smartglass-dogfood",
+                "paths": ["/xboxstart"]
+            },
+            {
+                "appID": "UBF8T346G9.com.microsoft.smartglass",
+                "paths": ["/xboxstart"]
             }
         ]
     }
